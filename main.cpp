@@ -4,7 +4,7 @@
                                           // project:  answer dietl book
 
 
-/*
+
 //3.12
 #include<iostream>
 #include<iomanip>
@@ -481,7 +481,7 @@ int qualitypoints(int avg){
     else
         return 0;
 }
-*/
+
 
 
 
